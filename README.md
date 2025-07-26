@@ -1,4 +1,4 @@
-# Contador Binario vs. Contador Gray en Python
+# Contador Binario vs Contador Gray en Python
 
 Este proyecto en Python compara dos tipos de contadores digitales: un **contador binario** tradicional y un **contador en código Gray**, evaluando el costo en términos de cambios de bits entre cada incremento.
 
